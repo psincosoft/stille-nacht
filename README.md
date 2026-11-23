@@ -116,3 +116,5 @@ psinco. A Software Atelier from Luxembourg.
 ## Terms
 
 Stille Nacht is free, under the MIT licence: see [LICENSE](LICENSE). Its source code is not published.
+
+Libraries and archives may copy and keep these files, including for legal deposit.
